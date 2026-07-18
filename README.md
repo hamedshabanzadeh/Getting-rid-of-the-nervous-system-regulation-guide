@@ -10,7 +10,7 @@
 
 می‌توانید نسخه کامل و زنده این دستور العمل را در لینک زیر مشاهده کنید:
 
-*(https://hamedshabanzadeh.github.io/Getting-rid-of-the-nervous-system-regulation-guide/)*
+*https://hamedshabanzadeh.github.io/Getting-rid-of-the-nervous-system-regulation-guide*
 
 ## موضوعات کلیدی مطرح شده
 
